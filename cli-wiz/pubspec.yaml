@@ -1,0 +1,5 @@
+name: cli_wiz
+version: 0.0.1
+description: this is a s mall project learing
+environment:
+  sdk: '>= 2.10.0 <3.0.0'
